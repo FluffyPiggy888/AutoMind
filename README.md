@@ -1,6 +1,4 @@
-# AutoMind by ZemaStream， all rights reserved
-
-
+# Author: Shanghai Zema Stream Technology Ltd. All rights reserved
 
 # Change log
 
