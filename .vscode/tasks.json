@@ -1,0 +1,11 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "shell",
+			"label": "Create venv and run automind.py",
+			"command": "python -m venv .venv && .venv\\Scripts\\activate && pip install --upgrade pip && pip install pygame numpy pyaudio && python automind.py",
+			"isBackground": false
+		}
+	]
+}
