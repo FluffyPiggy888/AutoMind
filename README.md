@@ -8,7 +8,7 @@ setup python v3.13.5 and virtual environment successfully on dev laptop
 
 # AutoMind 疲劳驾驶监测系统
 ## 产品功能说明
-AutoMind 是一款基于AI技术的疲劳驾驶监测系统软件 中间件（middleware），由FluffyPiggy888 @Github 开发。该系统通过实时分析驾驶员的行为特征，检测疲劳驾驶状态，并提供及时预警，帮助降低交通事故风险。若有志同道合的人士一起开发，欢迎联系。
+AutoMind 是一款基于AI技术的疲劳驾驶监测系统软件 中间件（middleware），由FluffyPiggy888 创立。该系统通过实时分析驾驶员的行为特征，检测疲劳驾驶状态，并提供及时预警，帮助降低交通事故风险。若有志同道合的人士一起开发，欢迎联系。
 
 ### MVP版本的核心功能
 1. 
